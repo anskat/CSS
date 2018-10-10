@@ -1,3 +1,3 @@
 # CSS
 Corso CSS
-Elemnti utili pr il corso sull'uso dei CSS
+Elemnti utili per il corso sull'uso dei CSS
